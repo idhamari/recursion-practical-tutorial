@@ -19,9 +19,9 @@ If you have any comments, questions,or feedback, pleas feel free to add to the d
 - Select  Data menu then save a copy in drive. Then siwtch to the new saved notebook.
 - Select Run-time menu then Run all
 - Modify the code to learn more about it and do the tracing (this is important to understand how it works)
-- Add your feedback to the [discussion]() section in github.
+- Add your feedback to the [discussion](https://github.com/idhamari/recursion-practical-tutorial/discussions/categories/q-a) section in github.
 - If you have time, contribute by adding more examples or notebooks
-- I appreciate [forking]() and [starring]() :)
+- I appreciate [forking](https://docs.github.com/en/get-started/quickstart/fork-a-repo) and [starring](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars) :)
 
 
 # Contents
